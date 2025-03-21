@@ -1,8 +1,11 @@
 # TIPE
-Repo global pour rassembler tout ce qui touche à mon TIPE.
-Je tiens à préciser que cette initiative a été prise en mi-sup.
+Dépôt pour rassembler tout ce qui touche à mon TIPE (MP2I-___ 2024/2025/2026).
 
-Mes idées principales à la création de ce dépôt sont listées dans #ideas.md.
-Cette liste est susceptible d'évoluer au cours des prochains mois.
+**Idée retenue au jour du 21/03/2025: "Attaques par dépassement de tampon: dangers et solutions"**
 
-Thème imposé à ce jour: "Cycles et Boucles"
+La présentation partira d'une contextualisation du problème et de l'établissement de plusieurs sous-catégories, avant de proposer une démonstration hand-on de l'attaque sur une simulation de stack-overflow au sein d'un allocateur par pagination maison, pour convaincre le jury que la STDLib C cache de malicieux démons :(
+
+## Support 
+[Buffer-overflow sim](https://github.com/Titoutee/SOSim)
+
+[Oppermann's article](https://os.phil-opp.com/)
